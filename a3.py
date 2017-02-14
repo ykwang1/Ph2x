@@ -79,6 +79,8 @@ def plot_phase(tf, t0, h, method, cycles):
     plt.legend()
     plt.show()
 
+print "new change!!"
+
 cycles = 10
 tf =cycles * 2*np.pi 
 t0 = 0
