@@ -14,3 +14,4 @@ lab3.pdf: main.tex $(pngs)
 clean:
 	rm -f *.log
 	rm -f *.png
+	rm -f *.aux
